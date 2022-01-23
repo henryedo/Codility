@@ -1,1 +1,1 @@
-# Codility
+These are 100% completed python solutions for Codility, I hope..
